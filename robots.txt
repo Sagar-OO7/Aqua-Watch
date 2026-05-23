@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aquawatch.vercel.app/sitemap.xml
